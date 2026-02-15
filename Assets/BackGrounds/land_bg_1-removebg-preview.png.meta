@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 6e8c9ff1f67c92e42a47344417788ffc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3320153378153397622
+    second: land_bg_1-removebg-preview_0
+  - first:
+      213: 7912399561689656818
+    second: land_bg_1-removebg-preview_1
+  - first:
+      213: -4509839024219371831
+    second: land_bg_1-removebg-preview_2
+  - first:
+      213: -8473988505757903101
+    second: land_bg_1-removebg-preview_3
+  - first:
+      213: -905531668276352209
+    second: land_bg_1-removebg-preview_4
+  - first:
+      213: 6216750935221821400
+    second: land_bg_1-removebg-preview_5
+  - first:
+      213: -4941159471837979222
+    second: land_bg_1-removebg-preview_6
+  - first:
+      213: 6476006248081286388
+    second: land_bg_1-removebg-preview_7
+  - first:
+      213: 7055160089111875512
+    second: land_bg_1-removebg-preview_8
+  - first:
+      213: 6956252919018904279
+    second: land_bg_1-removebg-preview_9
+  - first:
+      213: 5849724260192035996
+    second: land_bg_1-removebg-preview_10
+  - first:
+      213: 3512534132449811776
+    second: land_bg_1-removebg-preview_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: land_bg_1-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 344
+        width: 278
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d75a018ed831e20800000000000000
+      internalID: 3320153378153397622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: land_bg_1-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 345
+        width: 277
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fde77bca7d7ecd60800000000000000
+      internalID: 7912399561689656818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: land_bg_1-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 277
+        width: 278
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6c5373d45d961c0800000000000000
+      internalID: -4509839024219371831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: land_bg_1-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 279
+        width: 278
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3079e83e958566a80800000000000000
+      internalID: -8473988505757903101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: land_bg_1-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 213
+        width: 278
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b6583deb7ee63f0800000000000000
+      internalID: -905531668276352209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: land_bg_1-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 213
+        width: 278
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df59fea906564650800000000000000
+      internalID: 6216750935221821400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: land_bg_1-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 147
+        width: 278
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad5a86c3a97d6bb0800000000000000
+      internalID: -4941159471837979222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: land_bg_1-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 147
+        width: 277
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4681c0f556fd950800000000000000
+      internalID: 6476006248081286388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: land_bg_1-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 77
+        width: 277
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfc601a8b6f8e160800000000000000
+      internalID: 7055160089111875512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: land_bg_1-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 77
+        width: 278
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da55ed8c23998060800000000000000
+      internalID: 6956252919018904279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: land_bg_1-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 10
+        width: 277
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c942bb2b8356e2150800000000000000
+      internalID: 5849724260192035996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: land_bg_1-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 11
+        width: 278
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d1b1aee270fb030800000000000000
+      internalID: 3512534132449811776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      land_bg_1-removebg-preview_0: 3320153378153397622
+      land_bg_1-removebg-preview_1: 7912399561689656818
+      land_bg_1-removebg-preview_10: 5849724260192035996
+      land_bg_1-removebg-preview_11: 3512534132449811776
+      land_bg_1-removebg-preview_2: -4509839024219371831
+      land_bg_1-removebg-preview_3: -8473988505757903101
+      land_bg_1-removebg-preview_4: -905531668276352209
+      land_bg_1-removebg-preview_5: 6216750935221821400
+      land_bg_1-removebg-preview_6: -4941159471837979222
+      land_bg_1-removebg-preview_7: 6476006248081286388
+      land_bg_1-removebg-preview_8: 7055160089111875512
+      land_bg_1-removebg-preview_9: 6956252919018904279
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
